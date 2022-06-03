@@ -13,3 +13,6 @@ function peopleWithAgeDrink(old) {
     return "drink whisky";
   }
 }
+function solution(str, ending){
+    return str.endsWith(ending);
+}
